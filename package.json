@@ -55,7 +55,7 @@
       [
         "@babel/preset-env",
         {
-          "modules": false,
+          "modules": true,
           "targets": {
             "esmodules": true
           }
